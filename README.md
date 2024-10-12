@@ -13,6 +13,9 @@ pnpm dev
 # or
 bun dev
 ```
+Create a new file named `.env.local` in the root of your project and add the following content:
+```env
+#APPWRITE
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
